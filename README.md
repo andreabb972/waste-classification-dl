@@ -6,11 +6,11 @@
 
 This repository presents an advanced image classification pipeline applied to the **RealWaste** dataset (9 classes, 4,279 training images). This project was developed as part of the **Deep Learning course at Polytech Nice Sophia (2025)**, taught by **Gaëtan Bahl** (Principal Machine Vision Engineer at NXP), and was **awarded a grade of 19/20**.
 
-📄 **[Read the Full Project Report (PDF)](./Polytech' Nice Deep Learning course 2025.pdf)**
+**[Read the Full Project Report (PDF)](https://github.com/andreabb972/waste-classification-dl/blob/main/Polytech%27%20Nice%20Deep%20Learning%20course%202025.pdf)**
 
 ---
 
-## 🚀 Key Features & Methodology
+## Key Features & Methodology
 
 1. **Progressive Fine-Tuning Strategy**: 
    - **Phase 1**: Freezing the pre-trained backbone and training only the classification head.
@@ -36,7 +36,7 @@ This repository presents an advanced image classification pipeline applied to th
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `rendu.ipynb` : The main Jupyter Notebook containing the structured end-to-end pipeline (data augmentation, model initialization, training, evaluation, and ensembling).
 - `rapport.pdf` : The complete technical report detailing theoretical choices and experiment analyses (graded 19/20).
@@ -44,9 +44,9 @@ This repository presents an advanced image classification pipeline applied to th
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/votre-nom-utilisateur/waste-classification-dl.git](https://github.com/votre-nom-utilisateur/waste-classification-dl.git)
+   git clone [[https://github.com/votre-nom-utilisateur/waste-classification-dl.git](https://github.com/votre-nom-utilisateur/waste-classification-dl.git)](https://github.com/andreabb972/waste-classification-dl.git)
    cd waste-classification-dl
