@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![Grade](https://img.shields.io/badge/Grade-19%2F20-success.svg)]()
 
-This repository presents an advanced image classification pipeline applied to the **RealWaste** dataset (9 classes, 4,279 training images). This project was developed as part of the **Deep Learning course at Polytech Nice Sophia (2025)**, taught by **Gaëtan Bahl** (Principal Machine Vision Engineer at NXP), and was **awarded a grade of 19/20**.
+This repository presents an image classification pipeline applied to the **RealWaste** dataset (9 classes, 4,279 training images). This project was developed in a team of two, as part of the **Deep Learning course at Polytech Nice Sophia (2025)**, taught by **Gaëtan Bahl** (Principal Machine Vision Engineer at NXP), and was **awarded a grade of 19/20**.
 
 **[Read the Full Project Report (PDF)](https://github.com/andreabb972/waste-classification-dl/blob/main/Polytech%27%20Nice%20Deep%20Learning%20course%202025.pdf)**
 
