@@ -25,7 +25,7 @@ This repository presents an image classification pipeline applied to the **RealW
 
 ---
 
-## 📊 Summary of Results
+## Summary of Results
 
 | Model / Strategy | Architecture Type | Test Accuracy | Model Size |
 | :--- | :--- | :--- | :--- |
