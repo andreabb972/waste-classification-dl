@@ -38,7 +38,7 @@ This repository presents an image classification pipeline applied to the **RealW
 
 ## Repository Structure
 
-- `rendu.ipynb` : The main Jupyter Notebook containing the structured end-to-end pipeline (data augmentation, model initialization, training, evaluation, and ensembling).
+- `projet_git.ipynb` : The main Jupyter Notebook containing the structured end-to-end pipeline (data augmentation, model initialization, training, evaluation, and ensembling).
 - `report.pdf` : The complete technical report detailing theoretical choices and experiment analyses (graded 19/20).
 - `requirements.txt` : Python dependencies.
 
