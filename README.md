@@ -48,5 +48,6 @@ This repository presents an image classification pipeline applied to the **RealW
 
 1. Clone the repository:
    ```bash
-   git clone [[https://github.com/votre-nom-utilisateur/waste-classification-dl.git](https://github.com/votre-nom-utilisateur/waste-classification-dl.git)](https://github.com/andreabb972/waste-classification-dl.git)
-   cd waste-classification-dl
+   git clone [[[https://github.com/votre-nom-utilisateur/waste-classification-dl.git](https://github.com/votre-nom-utilisateur/waste-classification-dl.git)](https://github.com/andreabb972/waste-classification-dl.git)](https://github.com/andreabb972/waste-classification-dl.git)
+cd waste-classification-dl
+pip install -r requirements.txt
